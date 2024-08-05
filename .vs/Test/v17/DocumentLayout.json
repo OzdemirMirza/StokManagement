@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D610E533-F9A6-4F44-88F0-0F0059C43B7F}|Test\\Test.csproj|C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\test\\formlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D610E533-F9A6-4F44-88F0-0F0059C43B7F}|Test\\Test.csproj|solutionrelative:test\\formlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D610E533-F9A6-4F44-88F0-0F0059C43B7F}|Test\\Test.csproj|C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D610E533-F9A6-4F44-88F0-0F0059C43B7F}|Test\\Test.csproj|solutionrelative:test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D610E533-F9A6-4F44-88F0-0F0059C43B7F}|Test\\Test.csproj|C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\test\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D610E533-F9A6-4F44-88F0-0F0059C43B7F}|Test\\Test.csproj|solutionrelative:test\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D610E533-F9A6-4F44-88F0-0F0059C43B7F}|Test\\Test.csproj|c:\\users\\dell\\source\\repos\\test-ui-farkl\u0131\\test\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D610E533-F9A6-4F44-88F0-0F0059C43B7F}|Test\\Test.csproj|solutionrelative:test\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D610E533-F9A6-4F44-88F0-0F0059C43B7F}|Test\\Test.csproj|c:\\users\\dell\\source\\repos\\test-ui-farkl\u0131\\test\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D610E533-F9A6-4F44-88F0-0F0059C43B7F}|Test\\Test.csproj|solutionrelative:test\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D610E533-F9A6-4F44-88F0-0F0059C43B7F}|Test\\Test.csproj|C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\test\\dbstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D610E533-F9A6-4F44-88F0-0F0059C43B7F}|Test\\Test.csproj|solutionrelative:test\\dbstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D610E533-F9A6-4F44-88F0-0F0059C43B7F}|Test\\Test.csproj|C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\test\\formekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D610E533-F9A6-4F44-88F0-0F0059C43B7F}|Test\\Test.csproj|solutionrelative:test\\formekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D610E533-F9A6-4F44-88F0-0F0059C43B7F}|Test\\Test.csproj|C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\test\\formekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D610E533-F9A6-4F44-88F0-0F0059C43B7F}|Test\\Test.csproj|solutionrelative:test\\formekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\Test\\DbConnection.cs",
+              "RelativeDocumentMoniker": "Test\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\Test\\DbConnection.cs",
+              "RelativeToolTip": "Test\\DbConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T21:05:29.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "signUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\Test\\signUp.cs",
+              "RelativeDocumentMoniker": "Test\\signUp.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\Test\\signUp.cs [Design]*",
+              "RelativeToolTip": "Test\\signUp.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-10T22:36:29.555Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\Test\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Test\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\Test\\UserLogin.cs [Design]",
+              "RelativeToolTip": "Test\\UserLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-10T22:36:27.092Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\Test\\Form1.cs",
+              "RelativeDocumentMoniker": "Test\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\Test\\Form1.cs [Design]",
+              "RelativeToolTip": "Test\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-10T22:36:24.295Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLogs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\Test\\FormLogs.cs",
+              "RelativeDocumentMoniker": "Test\\FormLogs.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\Test\\FormLogs.cs [Design]",
+              "RelativeToolTip": "Test\\FormLogs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-10T22:36:21.796Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormEkle.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\Test\\FormEkle.cs",
+              "RelativeDocumentMoniker": "Test\\FormEkle.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\Test\\FormEkle.cs",
+              "RelativeToolTip": "Test\\FormEkle.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-07T01:25:12.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormEkle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\Test\\FormEkle.cs",
+              "RelativeDocumentMoniker": "Test\\FormEkle.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\Test\\FormEkle.cs [Design]",
+              "RelativeToolTip": "Test\\FormEkle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-07T01:25:10.424Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbStock.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\Test\\DbStock.cs",
+              "RelativeDocumentMoniker": "Test\\DbStock.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\test-ui-farkl\u0131\\Test\\DbStock.cs",
+              "RelativeToolTip": "Test\\DbStock.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-07T01:24:59.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
