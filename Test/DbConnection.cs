@@ -12,7 +12,7 @@ namespace Test
     {
         public  MySqlConnection GetConnection()
         {
-            string sql = "Server=77.245.159.14;Port=3306;Database=kadeyaco_STOK;User ID=kadeyaco_wp233;Password=(x8d)p3XSuM7-!(2;";
+            string sql = "";
             MySqlConnection con = new MySqlConnection(sql);
             try
             {
